@@ -1,7 +1,7 @@
 # LHGames
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
-The project was developed as a complementary activity to the Full Stack course for applying a Front-End Framework with API consumption from [SENAI DF (https://www.sistemafibra.org.br/senai/)]
+The project was developed as a complementary activity to the Full Stack course for applying a Front-End Framework with API consumption from [SENAI](https://www.sistemafibra.org.br/senai/).
 
 ## Development server
 
