@@ -1,0 +1,25 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "produto": "FiFa 2024",
+      "descricao": "FiFa 2024 para PS5",
+      "foto": "jogo4.PNG",
+      "preco": 300
+    },
+    {
+      "id": "2",
+      "produto": "Mortal Kombat 1",
+      "descricao": "Mortal Kombat 1 para PS5",
+      "foto": "jogo5.PNG",
+      "preco": 200
+    },
+    {
+      "id": "3",
+      "produto": "Super Mario 3D World + Bowsers Fury",
+      "descricao": "Super Mario 3D World + Bowsers Fury para Nitendo Swuitch",
+      "foto": "jogo6.PNG",
+      "preco": 400
+    }
+  ]
+}
